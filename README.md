@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chocolate Factory
 
 This is website of a chocolate factory who showcase and sell their products online developed in PHP and MySQL.<br />
@@ -22,3 +23,6 @@ Team Participants
 * Karankumar
 * MalavPatel
  
+=======
+# php-project
+>>>>>>> 2323df4c6e0dab9ad353d7fc10c164e8563c1694
